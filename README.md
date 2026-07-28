@@ -35,6 +35,7 @@ The goal is not just to memorise tools, but to understand how systems behave, au
 ## 📁 Featured Folders
 
 <h3>
+  <img src="https://github.com/user-attachments/assets/a4d88cc6-7a7f-4035-9b82-5d0354d8e0bb" width="28" align="center">
   <a href="./01-linux">Linux</a>
 </h3>
 
@@ -59,6 +60,7 @@ Each topic links out to its own overview page, with a consolidated hands-on lab 
 ---
 
 <h3>
+  <img src="https://github.com/user-attachments/assets/dabfb244-0d00-405a-9eb0-b9262fd1e2b7" width="28" align="center">
   Bash Scripting
 </h3>
 
@@ -69,6 +71,7 @@ Will cover: script structure, variables and parameters, conditionals and loops, 
 ---
 
 <h3>
+  <img src="https://github.com/user-attachments/assets/ebaac862-de30-40ee-9466-25622db90c1d" width="28" align="center">
   Git
 </h3>
 
@@ -79,6 +82,7 @@ Will cover: Git architecture, the three areas (working directory, staging, repos
 ---
 
 <h3>
+  <img src="https://github.com/user-attachments/assets/224184e0-5eb6-44e4-b601-ec20332b6f8d" width="28" align="center">
   Networking
 </h3>
 
@@ -89,6 +93,7 @@ Will cover: OSI and TCP/IP models, IP and MAC addressing, ports and protocols, D
 ---
 
 <h3>
+  <img src="https://github.com/user-attachments/assets/2fc49307-4efa-4fef-8663-96b3f8f9ff30" width="34" align="center">
   Docker
 </h3>
 
@@ -99,6 +104,7 @@ Will cover: container and Docker architecture, images and Dockerfiles, Docker ne
 ---
 
 <h3>
+  <img src="https://github.com/user-attachments/assets/9f8a1574-e10d-443f-9996-c9113383775f" width="28" align="center">
   AWS
 </h3>
 
