@@ -1,4 +1,4 @@
-<img width="1000" height="538" alt="devops learning linux-banner" src="./images/linux-banner.jpg" />
+<img width="1000" height="538" alt="devops learning banner" src="./images/linux-banner.jpg" />
 
 # Linux
 
